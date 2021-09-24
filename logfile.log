@@ -1,0 +1,297 @@
+2021-09-24 13:42:23,172 INFO  [Log] search_a_product() PASSED 
+2021-09-24 13:42:24,490 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=2" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52951}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 744c9fab4e299b85ad14ee2a88ea23fa 
+2021-09-24 13:42:26,748 INFO  [Log] select_a_product() PASSED 
+2021-09-24 13:42:26,892 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 13:42:36,714 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 13:50:51,736 INFO  [Log] search_a_product() PASSED 
+2021-09-24 13:50:56,084 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=3" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: af9294472332ee3fe596c3217ef225d5 
+2021-09-24 13:50:58,790 INFO  [Log] select_a_product() PASSED 
+2021-09-24 13:50:58,932 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 13:51:09,927 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 13:52:25,331 INFO  [Log] search_a_product() PASSED 
+2021-09-24 13:52:32,644 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=4" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61025}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a38a16e1cf09c39efd495fff573edec7 
+2021-09-24 13:52:34,935 INFO  [Log] select_a_product() PASSED 
+2021-09-24 13:52:35,063 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 13:52:35,984 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:03:27,360 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:03:32,127 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=3" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64769}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 831725cfbc664776bcde817f87138b57 
+2021-09-24 14:03:34,145 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:03:34,271 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:03:46,039 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2021-09-24 14:06:40,104 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:06:44,834 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=3" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55488}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b15c475e4b95e12bde5849c0cd9955b1 
+2021-09-24 14:06:47,348 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:06:47,483 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:06:55,291 ERROR [Log] go_to_cart() FAILED with cause : chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55488}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b15c475e4b95e12bde5849c0cd9955b1
+*** Element info: {Using=class name, value=title-link} 
+2021-09-24 14:08:34,724 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:08:42,878 ERROR [Log] change_page() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".ubwpe"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61031}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 946a716aea1fde5a48ac070072a6a995
+*** Element info: {Using=class name, value=ubwpe} 
+2021-09-24 14:08:42,913 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".dyekHG"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61031}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 946a716aea1fde5a48ac070072a6a995
+*** Element info: {Using=class name, value=dyekHG} 
+2021-09-24 14:08:42,952 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-basket"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61031}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 946a716aea1fde5a48ac070072a6a995
+*** Element info: {Using=id, value=add-to-basket} 
+2021-09-24 14:08:42,980 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".basket\-title"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61031}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 946a716aea1fde5a48ac070072a6a995
+*** Element info: {Using=class name, value=basket-title} 
+2021-09-24 14:09:08,098 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:09:12,786 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=3" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 39aa642f68699cd6fc868791fd55dbd4 
+2021-09-24 14:09:15,279 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:09:15,419 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:09:16,046 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:11:27,668 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:11:36,285 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=4" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50894}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 402694a0d18b36d4402a09b46746ad4c 
+2021-09-24 14:11:38,273 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:11:39,954 ERROR [Log] add_product_to_cart() FAILED with cause : element click intercepted: Element <button type="button" id="add-to-basket" class="control-button gg-ui-button plr10 gg-ui-btn-default">...</button> is not clickable at point (1224, 656). Other element would receive the click: <div class="search-overlay" style="display: block;"></div>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50894}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 402694a0d18b36d4402a09b46746ad4c 
+2021-09-24 14:11:41,023 ERROR [Log] go_to_cart() FAILED with cause : element click intercepted: Element <span class="basket-title">...</span> is not clickable at point (1333, 170). Other element would receive the click: <a href="https://www.gittigidiyor.com/sepetim" class="header-cart-hidden-link" rel="nofollow"></a>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50894}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 402694a0d18b36d4402a09b46746ad4c 
+2021-09-24 14:13:15,726 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:13:23,298 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=4" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59962}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 33816bdb3671d4d3ad56c3dfe01d09b5 
+2021-09-24 14:13:26,253 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:13:26,369 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:13:35,287 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:13:55,271 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:13:59,998 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=3" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58964}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 55d1e72701d5ae9cd700d18d57138a20 
+2021-09-24 14:14:02,501 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:14:02,755 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:14:03,493 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:14:56,508 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:15:04,068 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=4" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54542}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b5a6bc647bd6d205f907159f4e83fad 
+2021-09-24 14:15:06,525 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:15:06,775 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:15:07,463 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:15:29,664 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:15:31,032 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=2" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63204}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c90b0162d440e75a101dc5006bc925eb 
+2021-09-24 14:15:33,269 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:15:33,605 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:15:34,381 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:16:00,364 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:16:01,759 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=2" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63878}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 81aa1f97d1ae90e2fe01f68eb4f19d58 
+2021-09-24 14:16:03,513 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:16:03,852 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:16:04,641 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:17:04,992 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:17:06,322 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=2" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 81af9ee110b793125edfb2a70478f2f9 
+2021-09-24 14:17:08,383 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:17:08,636 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:17:10,885 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:17:35,594 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:17:43,225 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=4" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50947}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 83fd99d85cd49482caf0b0de502c5e8a 
+2021-09-24 14:17:45,342 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:17:45,459 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:17:46,276 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:18:13,773 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:18:14,066 INFO  [Log] change_page() PASSED 
+2021-09-24 14:18:16,457 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:18:16,590 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:18:17,386 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:18:40,061 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:18:44,438 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=3" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62276}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c61907d77e921c7a487f801422db180b 
+2021-09-24 14:18:47,014 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:18:47,139 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:18:47,943 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:20:12,590 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:20:16,023 INFO  [Log] change_page() PASSED 
+2021-09-24 14:20:18,520 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:20:18,678 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:20:30,213 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:22:30,454 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:22:31,808 ERROR [Log] change_page() FAILED with cause : element click intercepted: Element <a href="https://www.gittigidiyor.com/arama/?k=Bilgisayar&amp;sf=2" title="Sonraki sayfa" tabindex="0" aria-label="Sonraki sayfa" aria-disabled="false" data-testid="paginationNext" class="sc-12aj18f-1 ubwpe">...</a> is not clickable at point (1073, 698). Other element would receive the click: <ul class="sc-12aj18f-3 kLmKCh">...</ul>
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55738}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e5b83e48f6f5fee901488a0a242ca15d 
+2021-09-24 14:22:34,053 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:22:34,073 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".wis\-clsbtn\-125813"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55738}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e5b83e48f6f5fee901488a0a242ca15d
+*** Element info: {Using=class name, value=wis-clsbtn-125813} 
+2021-09-24 14:22:34,999 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:23:23,764 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:23:27,143 INFO  [Log] change_page() PASSED 
+2021-09-24 14:23:29,606 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:23:29,742 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:23:39,621 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:25:21,198 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:25:24,439 INFO  [Log] change_page() PASSED 
+2021-09-24 14:25:27,721 ERROR [Log] select_a_product() FAILED with cause : Not on product detail page! ==> expected: <true> but was: <false> 
+2021-09-24 14:25:27,765 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55949}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 976c4764227d2649d3f93b7f2e041c0d 
+2021-09-24 14:25:28,598 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:26:20,218 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:26:23,527 INFO  [Log] change_page() PASSED 
+2021-09-24 14:26:26,176 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".add\-to\-basket"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49302}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 120cc0c003e31f61a7e0c7f0099fedb7
+*** Element info: {Using=class name, value=add-to-basket} 
+2021-09-24 14:26:26,208 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".add\-to\-basket"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LUGJ799', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\aylin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49302}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 120cc0c003e31f61a7e0c7f0099fedb7
+*** Element info: {Using=class name, value=add-to-basket} 
+2021-09-24 14:26:27,076 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:26:56,676 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:27:00,642 INFO  [Log] change_page() PASSED 
+2021-09-24 14:27:03,272 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:27:03,405 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:27:14,938 INFO  [Log] go_to_cart() PASSED 
+2021-09-24 14:29:03,542 INFO  [Log] search_a_product() PASSED 
+2021-09-24 14:29:06,809 INFO  [Log] change_page() PASSED 
+2021-09-24 14:29:10,028 INFO  [Log] select_a_product() PASSED 
+2021-09-24 14:29:10,159 INFO  [Log] add_product_to_cart() PASSED 
+2021-09-24 14:29:11,048 INFO  [Log] go_to_cart() PASSED 
